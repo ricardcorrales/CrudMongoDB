@@ -7,7 +7,7 @@
     "dev": "nodemon src/index.js --exec babel-node"
   },
   "keywords": [],
-  "author": "Ricard corrales",
+  "author": "Ricard corrales garcia",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
